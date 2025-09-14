@@ -114,4 +114,4 @@ All experimental results (training, validation, test accuracies) are included in
 
 ## 📝 Author
 
-Created by **\[Your Name]** as part of a deep learning assignment.
+Created by **Kenzy khaled Mahmoud** as part of a deep learning assignment.
